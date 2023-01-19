@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am currently a postdoctoral scientist working within Chris Quince’s group at Earlham Institute.
+- I am currently a postdoctoral scientist working within Chris Quince’s group at Earlham Institute, where my focus is on the development of scalable methods and software for assembling HiFi metagenomics data.
+- My interests lie in the development of scalable tools for interpreting metagenomics data.
+- I exploit lightweight methods, such as minimizers and minhash sketches, as well as high-resolution data structure, such as assembly graphs.
+- I work on both short-read data, having developed Simka for quickly comparing hundreds of metagenomics samples,  and long-read technology, having developed metaMDBG for rapidly recovering complete circularized microbial genomes from metagenomes.
